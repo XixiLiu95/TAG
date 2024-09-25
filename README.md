@@ -25,7 +25,7 @@ OOD datasets can be downloaded via the following links (source: [ATOM](https://g
 **Large-scale OOD datasets** For large-scale ID (e.g. ImageNet-100), we use the curated 4 OOD datasets from OpenImage-O, Texture, iNaturalist, and ImageNet-O. (source: [ViM](https://github.com/haoqiwang/vim))
  
 - [ImageNet](https://www.image-net.org/). The ILSVRC 2012 dataset as In-distribution (ID) dataset. 
-- [ImageNet-100] (https://github.com/deeplearning-wisc/MCM).
+- [ImageNet-100](https://github.com/deeplearning-wisc/MCM).
 - [OpenImage-O](https://github.com/openimages/dataset/blob/main/READMEV3.md). The OpenImage-O dataset is a subset of the OpenImage-V3 testing set. The filelist is [here](datalists/openimage_o.txt).  
 - [Texture](https://www.robots.ox.ac.uk/~vgg/data/dtd/). We rule out four classes that coincides with ImageNet. The filelist used in the paper is [here](datalists/texture.txt).
 - [iNaturalist](https://arxiv.org/pdf/1707.06642.pdf). Follow the instructions in the [link](https://github.com/deeplearning-wisc/large_scale_ood) to prepare the iNaturalist OOD dataset.
