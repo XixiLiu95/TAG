@@ -12,7 +12,7 @@ This is the offical repository for our [TAG](https://drive.google.com/file/d/1kA
 
 We consider the following (in-distribution) datasets: CIFAR-100, ImageNet-100, and ImageNet-1k. 
 
-**Small-scale OOD datasets** For small-scale ID (e.g. CIFAR-10), we use SVHN, Textures (dtd), Places365, LSUN and iSUN. 
+**Small-scale OOD datasets** For small-scale ID (e.g. CIFAR-100), we use SVHN, Textures (dtd), Places365, LSUN and iSUN. 
 
 OOD datasets can be downloaded via the following links (source: [ATOM](https://github.com/jfc43/informative-outlier-mining/blob/master/README.md) and [CIDER](https://github.com/deeplearning-wisc/cider?tab=readme-ov-file#how-to-exploit-hyperspherical-embeddings-for-out-of-distribution-detection)):
 
