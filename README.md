@@ -3,6 +3,11 @@
 
 This is the offical repository for our [TAG](https://drive.google.com/file/d/1kAe3RQdOr-ViR3xwTSccnzxVYvYNUeGv/view?usp=sharing) and the presentation can be found [here](https://youtu.be/LMr6oOOCz9Q?si=MDfUTmqJe_sChNLs).
 
+
+### Illustration
+
+![Arch_figure](teaser.png)
+
 ### Data Preparation
 
 We consider the following (in-distribution) datasets: CIFAR-100, ImageNet-100, and ImageNet-1k. 
