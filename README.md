@@ -42,9 +42,8 @@ OOD datasets can be downloaded via the following links (source: [ATOM](https://g
     
     ```
 3. texture embedding analysis
-  ```bash
-    python eval/SVD_text_embeddings.py 
-     
+   ```bash
+    python eval/SVD_text_embeddings.py
     
     ```
 
