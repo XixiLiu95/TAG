@@ -37,19 +37,16 @@ OOD datasets can be downloaded via the following links (source: [ATOM](https://g
 1. extract features
     ```bash
     python eval/extract_features.py  # specify model name ['ViT-B/16', 'ViT-B/32','ViT-L/14', 'RN50', 'RN101']  
-     
     ```
 2. evaluation
     ```bash
     python eval/eval_ood_cifar_100.py --model_name  ['ViT-B/16', 'ViT-B/32','ViT-L/14', 'RN50', 'RN101'] --shuffle --M [int_number_of_augmentations] --temp [temperature] --score_name ['MSP', 'Max-Logit','Energy','GEN']
     python eval/eval_ood_imagenet_100.py --model_name  ['ViT-B/16', 'ViT-B/32','ViT-L/14', 'RN50', 'RN101'] --shuffle --M [int_number_of_augmentations] --temp [temperature] --score_name ['MSP', 'Max-Logit','Energy','GEN'] 
     python eval/eval_ood_imagenet_1k.py --model_name  ['ViT-B/16', 'ViT-B/32','ViT-L/14', 'RN50', 'RN101'] --shuffle --M [int_number_of_augmentations] --temp [temperature] --score_name ['MSP', 'Max-Logit','Energy','GEN']  
-    
     ```
 3. texture embedding analysis
    ```bash
     python eval/SVD_text_embeddings.py
-    
     ```
 
 
