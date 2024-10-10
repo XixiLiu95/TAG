@@ -8,7 +8,7 @@ This is the offical repository for our [TAG](https://drive.google.com/file/d/1kA
 
 ![Arch_figure](teaser.png)
 
-### Data Preparation
+## Data Preparation
 
 We consider the following (in-distribution) datasets: CIFAR-100, ImageNet-100, and ImageNet-1k. 
 
